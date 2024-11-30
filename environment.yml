@@ -1,0 +1,8 @@
+name: lab2_522
+channels:
+  - conda-forge
+dependencies:
+  - pandas=2.2.2
+  - pandera=0.20.4
+  - python=3.11
+prefix: /Users/yibin/miniforge3/envs/lab2_522
